@@ -14,3 +14,7 @@ class NemuManaka():
 if __name__ == '__main__':
     me = NemuManaka()
 ```
+
+<div align="center">
+    <img src="https://count.getloli.com/@nemu-manaka?name=nemu-manaka&theme=rule34&padding=4&offset=0&align=bottom&scale=1&pixelated=1&darkmode=0" alt="nemu-manaka" />
+</div>
