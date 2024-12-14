@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @nemu-manaka
-- 👀 I’m interested in experimentation
-- 🌱 I’m currently learning some sick stuff
-- 💞️ I’m looking to collaborate on paradise engine
-- 📫 How to reach me? Nah, I'll reach you ;)
-- 😄 Pronouns: who/cares
-- ⚡ Fun fact: I'm the best girl
+```py
+class NemuManaka():
+    
+  def __init__(self):
+    self.name = "Nemu Manaka";
+    self.username = "nemu-manaka";
+    self.description = "Student @ Rokukeikan Academy";
+    self.location = "Kyoto, Japan";
+    self.interest = "Paradise Engine";
+  
+  def __str__(self):
+    return self.name
 
-<!---
-nemu-manaka/nemu-manaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+if __name__ == '__main__':
+    me = NemuManaka()
+```
